@@ -1,2 +1,2 @@
 # zero
-Futuristic CMS built with Angular univerasal
+Futuristic CMS built with Angular universal
